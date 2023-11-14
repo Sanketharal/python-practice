@@ -3,7 +3,7 @@
 # Note: change this value for a different result
 num = 10 
 
-
+# To take the input from the use
 #num = float(input('Enter a number: '))
 # this code write for finding squre root
 
